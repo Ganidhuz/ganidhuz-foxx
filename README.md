@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="baymax.png" width="120" alt="Baymax" />
+</p>
+
 # 🦊 Ganidhuz-FoxX
 
 > Browse X/Twitter with a real logged-in Firefox session — no API key, no bot blocks.
