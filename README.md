@@ -45,6 +45,16 @@ Just tell your agent what you want — FoxX handles the rest.
 
 ---
 
+## 🤝 Contributing
+
+Got ideas? Found a bug? X blocking a new feature?
+
+PRs and issues are very welcome! This is a community tool and it gets better when more people chip in. Even small improvements — better selectors, new step actions, docs fixes — make a real difference.
+
+[Open an issue](https://github.com/Ganidhuz/ganidhuz-foxx/issues) or just submit a PR. Let's build it together. 🙌
+
+---
+
 ## 📄 License
 
 MIT
