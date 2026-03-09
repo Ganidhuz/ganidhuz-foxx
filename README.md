@@ -32,34 +32,14 @@ That's it. The skill handles the rest.
 
 ---
 
-## 📋 Usage Examples
+## 📋 What Can It Do?
 
-### View a profile
+Just tell your agent what you want — FoxX handles the rest.
 
-```json
-{
-  "url": "https://x.com/elonmusk",
-  "steps": [{ "action": "wait", "ms": 4000 }, { "action": "screenshot", "path": "/tmp/profile.png" }]
-}
-```
-
-### Search live tweets
-
-```json
-{
-  "url": "https://x.com/search?q=AI+agents&src=typed_query&f=live",
-  "steps": [{ "action": "wait", "ms": 4000 }, { "action": "screenshot", "path": "/tmp/search.png" }]
-}
-```
-
-### Fetch a tweet
-
-```json
-{
-  "url": "https://x.com/user/status/123456789",
-  "steps": [{ "action": "wait", "ms": 3000 }, { "action": "content", "selector": "article" }]
-}
-```
+- 🧑 **"Show me @elonmusk's profile"** — pulls it up like a real browser, no login wall
+- 🔍 **"Search X for AI agents news"** — live results, not cached garbage
+- 🐦 **"Fetch this tweet"** — grabs the full text, even from long posts
+- 📸 **"Screenshot this X thread"** — saves it locally for you to review
 
 ---
 
