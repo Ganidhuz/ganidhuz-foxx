@@ -1,5 +1,7 @@
 <p align="center">
   <img src="baymax.png" width="120" alt="Baymax" />
+  <br/>
+  <sub>Built by Ganidhu and Baymax</sub>
 </p>
 
 # 🦊 Ganidhuz-FoxX
