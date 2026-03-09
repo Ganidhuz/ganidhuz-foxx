@@ -34,6 +34,24 @@ That's it. The skill handles the rest.
 
 ---
 
+## 🔐 Logging In
+
+FoxX doesn't ask for your password. It uses your real Firefox session — so you only need to log in once.
+
+**The simple way:**
+1. Open Firefox and log into X/Twitter normally
+2. Run the cookie export script:
+   ```bash
+   bash scripts/export-x-cookies.sh
+   ```
+3. FoxX picks up your session automatically from there
+
+**On a headless server?** No monitor, no problem. You can connect to your server's filesystem remotely (e.g. via Finder > Connect to Server on macOS, or any SFTP client), open the Firefox profile directory, and the export script still works the same way.
+
+**Using a password manager?** If you store your X credentials in a vault (Bitwarden, 1Password, etc.), just have your agent retrieve them, log in once through Firefox, and export. You won't need to do it again unless your session expires.
+
+---
+
 ## 📋 What Can It Do?
 
 Just tell your agent what you want — FoxX handles the rest.
