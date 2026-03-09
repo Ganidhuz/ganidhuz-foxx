@@ -6,7 +6,9 @@
 
 > Browse X/Twitter with a real logged-in Firefox session — no API key, no bot blocks.
 
-Built because Chromium kept getting flagged by X. FoxX uses Playwright + Firefox with your actual session cookies to view profiles, fetch tweets, search feeds, and more.
+Built because Chromium kept getting flagged by X. 😉
+
+FoxX uses Playwright + Firefox with your actual session cookies to view profiles, fetch tweets, search feeds, and more.
 
 ---
 
