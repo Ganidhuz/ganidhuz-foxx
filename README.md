@@ -60,6 +60,7 @@ Just tell your agent what you want — FoxX handles the rest.
 - 🔍 **"Search X for AI agents news"** — live results, not cached garbage
 - 🐦 **"Fetch this tweet"** — grabs the full text, even from long posts
 - 📸 **"Screenshot this X thread"** — saves it locally for you to review
+- 📰 **"Latest post from @steipete"** — grabs their most recent tweet, no scraper needed
 
 ---
 
